@@ -11,11 +11,11 @@ For more info, please refer this [assignment](https://github.com/deepakraina99/P
 #### Steps:
 
 ```sh
-python cam_calibration.py image_location/foldername
+1. python cam_calibration.py image_location/foldername
 ```
 ```sh
-python renderer.py marker_locaton/filename video_location/filename object_location/filename output_locaton/filename feature_detector(surf/sift)
+2. python renderer.py marker_locaton/filename video_location/filename object_location/filename output_locaton/filename feature_detector(surf/sift)
 ```
 ```sh
-python move_renderer.py marker_locaton/filename marker2_location/filename video_location/filename object_location/filename output_locaton/filename
+3. python move_renderer.py marker_locaton/filename marker2_location/filename video_location/filename object_location/filename output_locaton/filename
 ```
