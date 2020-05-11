@@ -2,7 +2,7 @@
 # Augmented Reality Application
 In this assignment, augmented reality application is build using a webcam.
 
-For more info, please refer this [assignment](https://github.com/deepakraina99/PhD-Course-Projects-IITD/blob/master/Computer-Vision-COL780/Augmented-reality/Assignment-3.pdf), [report](https://github.com/deepakraina99/PhD-Course-Projects-IITD/blob/master/Computer-Vision-COL780/Augmented-reality/Report.pdf)
+For more info, please refer this [assignment](https://github.com/deepakraina99/PhD-Course-Projects-IITD/blob/master/Computer-Vision-COL780/Augmented-reality/Assignment-3.pdf), [report](https://github.com/deepakraina99/PhD-Course-Projects-IITD/blob/master/Computer-Vision-COL780/Augmented-reality/Report.pdf), [video](https://youtu.be/pyUxFPVd8jU)
 
 > This work has been done as part of Computer Vision
 > course at IIT Delhi.
